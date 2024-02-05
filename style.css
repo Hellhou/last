@@ -1,0 +1,96 @@
+body{
+    background-color: rgb(29, 31, 33);
+}
+.d1{
+    display: flex;
+    position: relative;
+    padding-left: 170px;
+    top: -35px;
+}
+.d2{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    left: -600px;
+    top: -366px;
+    font-size: large;
+    font-family: cursive;
+    font-style: oblique;
+}
+.d3{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: -400px;
+    left: -200px;
+}
+.d6{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: -930px;
+    left: 400px;
+}
+.d4{
+    color: white;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: -705px;
+    left: -205px;
+}
+.d5{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: -697px;
+    left: -200px;
+}
+
+.d7{
+    color: white;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: -1240px;
+    left: 400px;
+}
+.d8{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: -1213px;
+    left: 400px;
+}
+.d9{
+    color: white;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: -1020px;
+    left: -200px;
+}
+.d10{
+    color: white;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: -1020px;
+    left: -200px;
+}
+.d11{
+    color: white;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: -1090px;
+    left: 400px;
+}
+.d12{
+    color: white;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: -1217px;
+    left: 400px;
+}
